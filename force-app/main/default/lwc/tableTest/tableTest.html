@@ -1,0 +1,13 @@
+<!-- sldsValidatorIgnore -->
+<template>
+    <div style="height: 200px">
+        <lightning-datatable
+            columns={columns}
+            data={firsts}
+            key-field="id"
+            enable-infinite-loading="true"
+            onloadmore={loadMoreData}>
+        </lightning-datatable>
+    </div>
+    status: {loadStatus}
+</template>

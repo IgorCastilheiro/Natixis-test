@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>First__c.Second__c</members>
+		<members>Second__c.Third__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>First__c</members>
+		<members>Second__c</members>
+		<members>Third__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>First__c</members>
+		<members>Second__c</members>
+		<members>Table_test</members>
+		<members>Third__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Table_test</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>tableTest</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>51.0</version>
+</Package>

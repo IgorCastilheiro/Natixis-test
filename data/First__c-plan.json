@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "First__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "First__cs.json"
+        ]
+    }
+]
